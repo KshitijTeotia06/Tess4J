@@ -1,4 +1,4 @@
-﻿﻿Tess4J Change Summary
+﻿w﻿Tess4J Change Summary
 
 Version 0.1 - initial release (14 Aug 2010):
 - Java JNA-based wrapper for Tesseract OCR DLL 2.04

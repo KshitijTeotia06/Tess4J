@@ -1,1 +1,1 @@
-Science Project For Mr.Conolly's class
+Science Project For Mr.Connolly's class
